@@ -1,3 +1,9 @@
+# ReactCovidDashboard
+
+This project is made in ReactJS
+
+The objective is to show Covid19 Statistics and News in Portugal
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
